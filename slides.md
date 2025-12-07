@@ -5,9 +5,9 @@ paginate: true
 backgroundColor: #fff
 ---
 
-# Technical Documentation
+# Conn  Collier
 
-**Author:** 22f3000162@ds.study.iitm.ac.in
+Technical Documentation
 
 ---
 
